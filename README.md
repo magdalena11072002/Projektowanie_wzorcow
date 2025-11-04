@@ -1,1 +1,1 @@
-#Projektowanie_wzorcow
+# Projektowanie_wzorcow
